@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/gokimedia/gokimedia.r-universe.dev
 	branch = HEAD
+[submodule "sewloreSpecimenTables"]
+	path = sewloreSpecimenTables
+	url = https://github.com/gokimedia/sewlore-sewing-tools
+	subdir = packages/r/sewloreSpecimenTables
