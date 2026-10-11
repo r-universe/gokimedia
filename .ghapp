@@ -1,0 +1,10 @@
+{
+  "id": 170331145,
+  "created_at": "2026-10-11T17:14:07.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["gokimedia.r-universe.dev"]
+}
